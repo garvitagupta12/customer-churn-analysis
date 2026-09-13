@@ -52,12 +52,6 @@ The analysis focuses on identifying **patterns and associations**, rather than c
 - `images/` — Dashboard screenshots
 - `README.md` — Project documentation
 
-### SQL Files
-
-- `01_churn_analysis.sql`
-- `02_customer_segmentation.sql`
-- `03_financial_impact.sql`
-
 ---
 
 ## 📊 Dataset
