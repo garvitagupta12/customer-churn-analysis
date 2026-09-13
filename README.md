@@ -4,6 +4,8 @@ An end-to-end data analytics project focused on understanding customer churn, id
 
 The project combines **Python, SQL (MySQL), and Tableau** to analyze customer behavior and present findings through an interactive dashboard.
 
+👉 [Dashboard](https://public.tableau.com/app/profile/garvita.gupta7871/viz/Customer_churn_17893053922440/Dashboard1)
+
 ---
 
 ## 📌 Project Overview
